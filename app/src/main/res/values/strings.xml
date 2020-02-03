@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Latihan</string>
+    <string name="button_satu">First</string>
+    <string name="button_dua">Second</string>
+</resources>
