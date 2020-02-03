@@ -25,5 +25,8 @@ class MainActivity : AppCompatActivity() {
             binding.myDosen = dosen2
         }
          //TODO: note from local
+        
+        //TODO: for Pull
+        
     }
 }
